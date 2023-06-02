@@ -1,3 +1,5 @@
+![](https://s12.gifyu.com/images/SukyP.png)
+
 IF THE DESCRIPTION DOESNT LOAD CLICK HERE
 
 ### Collection Rev 8 BETA

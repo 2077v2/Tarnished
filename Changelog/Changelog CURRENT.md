@@ -1,3 +1,5 @@
+![](https://s12.gifyu.com/images/SukyP.png)
+
 ## [HEY Tarnished  Rev 9 is here](https://)
 
 ## NOTES
