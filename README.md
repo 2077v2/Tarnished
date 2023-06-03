@@ -1,6 +1,6 @@
-IF THE DESCRIPTION DOESNT LOAD CLICK HERE
+IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/2077v2/Tarnished)
 
-### Collection Rev 8 BETA
+### Collection Rev 10
 
 ![](https://s11.gifyu.com/images/Suhls.jpg)Hey v2 here this is The [Tarnished](https://) for Elden Ring.
 
@@ -45,7 +45,7 @@ I hope you enjoy this collection. Time for me to go but don't be a stranger join
 - First Person Mode.
 - Co-Op Mode.
 - Weapon and Armor Mods.
-- Graphics & Texture Mods.
+- Graphics Mods.
 - Gameplay mods & Tweaks.
 - Bug fixes.
 - Quality-of-life improvements.
@@ -99,9 +99,14 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [Launching Elden Ring](https://)
 
-- Use Vortex to launch the game ⛔ DO NOT launch the game from steam.
+- ⛔ Use Vortex to launch the game DO NOT launch the game from steam.
+- ⛔ Make sure steam is open or the game will NOT launch.
 
-![](https://s12.gifyu.com/images/SuloO.jpg)
+![](https://s12.gifyu.com/images/SuloO.jpg)&#x20;
+
+- ⛔ You MUST disable the anti cheat before launching the game.
+
+![](https://s12.gifyu.com/images/SuloA.jpg)
 
 ![](https://s11.gifyu.com/images/SuhlS.png)
 
@@ -115,8 +120,8 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [Install time](https://)
 
-**Premium Users**: Takes 20min + Semi-automatic. You can be AFK.\
-**Free Users:** Takes 40min + Semi-automatic. You will have to click on download for each mod one by one.
+**Premium Users**: Takes 10min + Semi-automatic. You can be AFK.\
+**Free Users:** Takes 20min + Semi-automatic. You will have to click on download for each mod one by one.
 
 ***
 
@@ -178,7 +183,7 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\ELDEN RING
 
 ![](https://s11.gifyu.com/images/SukBZ.png)
 
-1. Click\*\*"Add to Vortex"(choose your newly created profile)\*\*.
+1. Click "Add to Vortex"(choose your newly created profile).
 
 ![](https://s12.gifyu.com/images/Untitled1.png)
 
@@ -192,7 +197,7 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\ELDEN RING
 
 \***Note** If you don't want the optional mods skip this step.
 
-1. Select "**view optional mods**" then select\*\*"no thanks"\*\*
+1. Select "**view optional mods**" then select "no thanks"
 
 ![](https://s12.gifyu.com/images/Suv2m.jpg)Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
 
@@ -317,7 +322,9 @@ You havent chosen the right skin tone choose these colour settings R243 G167 B13
 
 ## [Game isnt launching just a black window appears](https://) ❓
 
-You havent set the **modengine2\_launcher.exe** to run as admin follow the guide in the installation section.
+1\) You havent set the **modengine2\_launcher.exe** to run as admin follow the guide in the installation section.
+
+2\) Steam isnt open.
 
 ##
 
@@ -370,7 +377,7 @@ And check out the gallery at the top of this page for videos by some of the mod 
 
 https://www.youtube.com/watch?v=nuau\_lZ0Imc
 
-[First Person Souls - Full Game Conversion](https://www.nexusmods.com/eldenring/mods/3266?tab=description) by [Dasaav](https://www.nexusmods.com/eldenring/users/173120428)
+[First Person Souls - Full Game Conversion](https://www.nexusmods.com/eldenring/mods/3266?tab=description) by [Dasaav](https://www.nexusmods.com/eldenring/users/173120428). You can activate first person with your lock on key.
 
 ### Features
 
@@ -384,7 +391,7 @@ https://www.youtube.com/watch?v=nuau\_lZ0Imc
 
 https://www.youtube.com/watch?v=lHKuJO9nK-8
 
-[Seamless Co-op](https://www.nexusmods.com/eldenring/mods/510?tab=description) by [LukeYui](https://www.nexusmods.com/eldenring/users/49594931)
+[Seamless Co-op](https://www.nexusmods.com/eldenring/mods/510?tab=description) by [LukeYui](https://www.nexusmods.com/eldenring/users/49594931). You can set your co-op password by clicking the icon in the top left hand corner of Vortex after you have enabled the tools bar.&#x20;
 
 ### Features
 
