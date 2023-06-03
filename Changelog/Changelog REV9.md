@@ -1,10 +1,8 @@
 ![](https://s12.gifyu.com/images/SukyP.png)
 
-## [HEY Tarnished  Rev 10 is here](https://)
+## [HEY Tarnished  Rev 9 is here](https://)
 
 ## NOTES
-
-FIXED Password INI file not showing on the Vortex toolbar.
 
 RELEASE
 
