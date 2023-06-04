@@ -10,6 +10,10 @@ Huge thank you to all the talented people that have put in the time and effort t
 
 I hope you enjoy this collection. Time for me to go but don't be a stranger join our community over on [Discord](https://discord.gg/xZNztPjA2u).
 
+### [Collection not working](https://) ❓
+
+This collection is extensively tested with every new version that is released. If it's not working for you there's a good chance you have missed a step. Please join the discord so we can assist you and get you up and going before you downvote the collection.
+
 ![](https://s11.gifyu.com/images/SuhlS.png)
 
 # [Contents:](https://)
@@ -33,9 +37,13 @@ I hope you enjoy this collection. Time for me to go but don't be a stranger join
 - These are the best mods from the best authors and are a must-have to immerse yourself in Elden Ring.
 - The most exstensive mod collection on nexus for Elden Ring.
 - Easy to follow step-by-step installation guide.
-- Only[1](https://)GB in download size for 40+ mods.
-- [Discord Server](https://discord.gg/xZNztPjA2u)with a growing community.
+- Only-[1](https://)GB in download size for-[40+](https://) mods.
+- [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
 - Continuous Support in Comments and on Discord.
+
+&#x20;[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow chooms everday.
+
+
 
 ![](https://s11.gifyu.com/images/SuhlS.png)
 
@@ -53,10 +61,6 @@ I hope you enjoy this collection. Time for me to go but don't be a stranger join
 - Improved UI.
 - Cheat Engine Script.
 - Save Game Editor.
-- [Discord Server](https://discord.gg/xZNztPjA2u)with a growing community.
-- Continuous Support on Comments and Discord.
-
-![](]https://i.imgur.com/VeCI8dy.png)[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. For this reason, we have an active [Discord Server](https://discord.gg/xZNztPjA2u) where we help users like you.
 
 ![](https://s11.gifyu.com/images/SuhlS.png)
 
@@ -72,12 +76,6 @@ I hope you enjoy this collection. Time for me to go but don't be a stranger join
 C:\Users\[username]\AppData\Roaming\EldenRing
 ```
 
-- This collection features**ADULT**mods and you should be 18+ to use it.
-
-## [Collection not working?  ](https://)
-
-This collection is extensively tested with every new version that is released. If it's not working for you there's a good chance you have missed a step.
-
 ![](https://s11.gifyu.com/images/SuhlS.png)
 
 ![](https://s12.gifyu.com/images/Suhlz.png)
@@ -89,7 +87,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 ## [READ](https://)
 
 - ⛔ It Is important that you**READ**the following Installation guide to fully understand everything clearly.
-- ⛔\*\*DO NOT \*\*use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
+- ⛔**DO NOT** use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
 
 ## [Updating Collection](https://)[   ](https://)
 
