@@ -150,7 +150,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [Vortex & Elden Ring](https://)
 
-1. Open Vortex and click on\*\*"Select a game to manage".\*\*
+1. Open Vortex and click on "Select a game to manage".
 
 ![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)
 
@@ -171,7 +171,7 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\ELDEN RING
 11 ) On your main Vortex window, it will now show an icon for **"Elden Ring"** showing that it is a managed game in Vortex.
 
 1. Go to the settings and on the mods tab check "**automatically use suggested path for staging folder**" then check "**suggest and "apply".**
-2. On the same window select"hard link deployment" and check\*\*"apply".\*\*
+2. On the same window select "hard link deployment" and check "apply".
 
 ![](https://s11.gifyu.com/images/Untitledef56ac4a42e1f37d.jpg)
 
@@ -183,7 +183,7 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\ELDEN RING
 
 ![](https://s11.gifyu.com/images/SukBZ.png)
 
-1. Click "Add to Vortex"(choose your newly created profile).
+1. Click "Add to Vortex" (choose your newly created profile).
 
 ![](https://s12.gifyu.com/images/Untitled1.png)
 
@@ -407,6 +407,14 @@ https://www.youtube.com/watch?v=lHKuJO9nK-8
 - Varre's questline no longer needs invasions to progress
 - You can play with 5 other players in the open world.
 - An overhaul to Elden Ring's Peer-to-Peer connection system, using Steam's newer networking API
+
+### Co-Op Password
+
+1\) To set a co-op password all you have to do is click the icon in the top left hand corner of Vortex after you have enabled the tools bar.&#x20;
+
+![](https://s12.gifyu.com/images/Suui1.jpg)2) Enter a password in the feild shown below&#x20;
+
+![](https://s12.gifyu.com/images/SuuiX.jpg)
 
 ![](https://s12.gifyu.com/images/SuvgK.png)
 
