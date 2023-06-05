@@ -43,8 +43,6 @@ This collection is extensively tested with every new version that is released. I
 
 &#x20;[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow chooms everday.
 
-
-
 ![](https://s11.gifyu.com/images/SuhlS.png)
 
 ![](https://s12.gifyu.com/images/SuhlM.png)
@@ -340,7 +338,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 And check out the gallery at the top of this page for videos by some of the mod authors showcased in this collection.
 
-![](https://s12.gifyu.com/images/SuvgK.png)
+![](https://s11.gifyu.com/images/SugDm.png)
 
 ![](https://s12.gifyu.com/images/Suv8Q.png)
 
@@ -351,7 +349,7 @@ And check out the gallery at the top of this page for videos by some of the mod 
 - Increased feild of view (FOV)
 - Framerate is unlocked.
 
-![](https://s12.gifyu.com/images/SuvgK.png)
+![](https://s11.gifyu.com/images/SugDm.png)
 
 ![](https://s11.gifyu.com/images/Su7a4.png)
 
@@ -362,7 +360,7 @@ And check out the gallery at the top of this page for videos by some of the mod 
 
 ![](https://s12.gifyu.com/images/SuIjL.png)[Custom Armour](https://www.nexusmods.com/eldenring/users/98505798) By [goxila](https://www.nexusmods.com/eldenring/users/98505798)
 
-![](https://s12.gifyu.com/images/SuvgK.png)
+![](https://s11.gifyu.com/images/SugDm.png)
 
 ![](https://s11.gifyu.com/images/SuvuH.png)
 
@@ -381,7 +379,7 @@ https://www.youtube.com/watch?v=nuau\_lZ0Imc
 
 > Travel to the Lands Betweenseen from an entirely new perspectivewith your own eyes First Person Souls offers a unique opportunity to experience Elden Ring like you have never before.
 
-![](https://s12.gifyu.com/images/SuvgK.png)
+![](https://s11.gifyu.com/images/SugDm.png)
 
 ![](https://s12.gifyu.com/images/Sum36.png)
 
@@ -414,7 +412,7 @@ https://www.youtube.com/watch?v=lHKuJO9nK-8
 
 ![](https://s12.gifyu.com/images/SuuiX.jpg)
 
-![](https://s12.gifyu.com/images/SuvgK.png)
+![](https://s11.gifyu.com/images/SugDm.png)
 
 ![](https://s11.gifyu.com/images/Su7ly.png)
 
@@ -423,7 +421,7 @@ https://www.youtube.com/watch?v=lHKuJO9nK-8
 - Intro is skipped.
 - UI for Ps4 and Ps5 controllers.
 
-![](https://s12.gifyu.com/images/SuvgK.png)
+![](https://s11.gifyu.com/images/SugDm.png)
 
 ## ![](https://s12.gifyu.com/images/SuvZV.png)
 
@@ -462,7 +460,7 @@ https://www.youtube.com/watch?v=uemw7TJzc7Y
 - Force TP
 - Edit your own Stats and LVL
 
-![](https://s12.gifyu.com/images/SuvgK.png)
+![](https://s11.gifyu.com/images/SugDm.png)
 
 ![](https://s11.gifyu.com/images/SumzB.png)
 
