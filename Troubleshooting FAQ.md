@@ -5,7 +5,7 @@
 
 ## FAQ
 
-![](https://s11.gifyu.com/images/SuhlS.png)
+![](https://s11.gifyu.com/images/SugDm.png)
 
 ## Contents
 1) [Where is the game located](#where-is-the-game-located) 
@@ -24,7 +24,7 @@
 Steam> Drive Letter\SteamLibrary\steamapps\common\Elden Ring.exe
 ```
 
-![](https://s11.gifyu.com/images/SuhlS.png)
+![](https://s11.gifyu.com/images/SugDm.png)
 
 
 ## My game is crashing on startup❓
@@ -32,7 +32,7 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Elden Ring.exe
 1) Check the install guide and make sure you followed the instructions.
 
 
-![](https://s11.gifyu.com/images/SuhlS.png)
+![](https://s11.gifyu.com/images/SugDm.png)
 
 
 ## Players body is missing parts❓
@@ -40,7 +40,7 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Elden Ring.exe
 1) You havent chosen the correct body type choose young musclear body.
 
 
-![](https://s11.gifyu.com/images/SuhlS.png)
+![](https://s11.gifyu.com/images/SugDm.png)
 
 
 
@@ -49,7 +49,7 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Elden Ring.exe
 1) You havent chosen the right skin tone choose these colour settings R243 G167 B134.
 
 
-![](https://s11.gifyu.com/images/SuhlS.png)
+![](https://s11.gifyu.com/images/SugDm.png)
 
 
 ## Game isnt launching just a black window appears❓
@@ -60,8 +60,7 @@ or
 
 2) Steam isnt open.
 
-
-![](https://s11.gifyu.com/images/SuhlS.png)
+![](https://s11.gifyu.com/images/SugDm.png)
 
 
 
