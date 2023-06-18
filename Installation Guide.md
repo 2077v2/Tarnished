@@ -4,6 +4,19 @@
 
 ![](https://s12.gifyu.com/images/SuhdO.png)
 
+
+# Contents:
+1) [Install Time](#install-time)
+2) [PC Updates](#pc-Updates)
+3) [Elden Ring](#elden-ring)
+4) [Vortex](#vortex)
+5) [Vortex and Elden Ring](#vortex-and-elden-ring)
+7) [Installing the collection](#installing-the-collection)
+8) [Pop Ups](#pop-ups)
+9) [Optional Mods](#optional-mods)
+10) [In game settings](#in-game-settings)
+11) [R
+
 ## [READ](https://)
 
 ## [](https://)
