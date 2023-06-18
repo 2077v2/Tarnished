@@ -12,6 +12,8 @@
 ![](https://s11.gifyu.com/images/SugDm.png)
 
 
+### PAUSE GAME
+
 - P> Pause Game
 
 
