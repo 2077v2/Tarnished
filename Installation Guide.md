@@ -15,7 +15,7 @@
 8) [Pop Ups](#pop-ups)
 9) [Optional Mods](#optional-mods)
 10) [In game settings](#in-game-settings)
-11) [R
+11) [Reshade](#reshade)
 
 ## [READ](https://)
 
