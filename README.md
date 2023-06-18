@@ -84,7 +84,6 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [READ](https://)
 
-- ⛔ It Is important that you**READ**the following Installation guide to fully understand everything clearly.
 - ⛔**DO NOT** use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
 
 ## [Updating Collection](https://)[   ](https://)
@@ -246,7 +245,7 @@ To use the included cheat engine script you will need to install Cheat Engine yo
 
 ## [In-game settings](https://)
 
-1. I have added a key bind list. You will find the list in your main game directory and on our discord. Or here
+1. I have added a key bind list. You will find the list in your main game directory and on our discord. Or [here](https://github.com/2077v2/Tarnished/blob/main/Keybinds.md)
 2. To have the body show correctly you must choose the female young muscle body.
 3. To match the skin color for the modded body - use  **R243 G167 B134** in the character customizer's 'Alter Skin Color'.
 
@@ -292,9 +291,9 @@ I have added these reshades below.
 
 **⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Elden Ring, or the collection when you see errors on Vortex.
 
-You can find the full Troubleshooting list on our Discord and here&#x20;
+You can find the full Troubleshooting list on our Discord and [here ](https://github.com/2077v2/Tarnished/blob/main/Troubleshooting%20FAQ.md)
 
-You can find all our guides on our Discord and here&#x20;
+You can find all our guides on our Discord and [here](https://github.com/2077v2/Tarnished/blob/main/Guides.md)&#x20;
 
 ## FAQ
 
@@ -320,9 +319,13 @@ You havent chosen the right skin tone choose these colour settings R243 G167 B13
 
 1\) You havent set the **modengine2\_launcher.exe** to run as admin follow the guide in the installation section.
 
+or
+
 2\) Steam isnt open.
 
-##
+## [My game is crashing after creating a character or loading a save❓](https://)
+
+Turn off Ray Tracing.
 
 ![](https://s11.gifyu.com/images/SuhlS.png)
 
