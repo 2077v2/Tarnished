@@ -35,7 +35,7 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Elden Ring.exe
 ![](https://s11.gifyu.com/images/SuhlS.png)
 
 
-## Players body is missing parts ❓
+## Players body is missing parts❓
 
 1) You havent chosen the correct body type choose young musclear body.
 
@@ -44,7 +44,7 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Elden Ring.exe
 
 
 
-## Skin is diffrent colours ❓
+## Skin is diffrent colours❓
 
 1) You havent chosen the right skin tone choose these colour settings R243 G167 B134.
 
@@ -52,7 +52,7 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Elden Ring.exe
 ![](https://s11.gifyu.com/images/SuhlS.png)
 
 
-## Game isnt launching just a black window appears ❓
+## Game isnt launching just a black window appears❓
 
 1) You havent set the modengine2_launcher.exe to run as admin follow the guide in the installation section.
 
