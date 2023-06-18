@@ -12,9 +12,7 @@
 ![](https://s11.gifyu.com/images/SugDm.png)
 
 
-
-
-
+- P> Pause Game
 
 
 ![](https://s11.gifyu.com/images/SugDm.png)
