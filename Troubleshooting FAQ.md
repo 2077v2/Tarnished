@@ -16,7 +16,7 @@
 6) [My game is crashing after creating a character or loading a save](#my-game-is-crashing-after-creating-a-character-or-loading-a-save)
 
 
-![](https://s11.gifyu.com/images/SuhlS.png)
+![](https://s11.gifyu.com/images/SugDm.png)
 
 ## Where is the game located❓
 
