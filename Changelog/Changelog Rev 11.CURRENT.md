@@ -1,6 +1,6 @@
 ![](https://s12.gifyu.com/images/SukyP.png)
 
-## [HEY Tarnished  Rev 11 is COMING SOON](https://)
+## [HEY Tarnished  Rev 11 is HERE](https://)
 
 ## NOTES
 
