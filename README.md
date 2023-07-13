@@ -1,10 +1,10 @@
 IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/2077v2/Tarnished)
 
-### Collection Rev 10
+### Collection Rev 11          Collection Updated and working for Game version 1.09.1
 
 ![](https://s11.gifyu.com/images/Suhls.jpg)Hey v2 here this is The [Tarnished](https://) for Elden Ring.
 
-So the i wanted to play multiplayer with my brother and when looking through Nexus i noticed that there isnt a good collection for Elden Ring this is due to how hard and annoying the game is to mod. So i decided to create this collection.
+So the i wanted to play multiplayer with my brother and when looking through Nexus i noticed that there isnt a good collection for Elden Ring so with my experience with Vortex, Nexus and Collections i decided to create this collection.
 
 Huge thank you to all the talented people that have put in the time and effort to create these mods. If you enjoy this collection, please show your support and [ENDORSE](https://) the mod authors and the collection.
 
@@ -245,7 +245,7 @@ To use the included cheat engine script you will need to install Cheat Engine yo
 
 ## [In-game settings](https://)
 
-1. I have added a key bind list. You will find the list in your main game directory and on our discord. Or [here](https://github.com/2077v2/Tarnished/blob/main/Keybinds.md)
+1. I have added a key bind list. You will find the list in your main game directory and on our discord. Or [HERE](https://github.com/2077v2/Tarnished/blob/main/Keybinds.md)
 2. To have the body show correctly you must choose the female young muscle body.
 3. To match the skin color for the modded body - use  **R243 G167 B134** in the character customizer's 'Alter Skin Color'.
 
@@ -291,9 +291,9 @@ I have added these reshades below.
 
 **⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Elden Ring, or the collection when you see errors on Vortex.
 
-You can find the full Troubleshooting list on our Discord and [here ](https://github.com/2077v2/Tarnished/blob/main/Troubleshooting%20FAQ.md)
+You can find the full Troubleshooting list on our Discord and [HERE](https://github.com/2077v2/Tarnished/blob/main/Troubleshooting%20FAQ.md)
 
-You can find all our guides on our Discord and [here](https://github.com/2077v2/Tarnished/blob/main/Guides.md)&#x20;
+You can find all our guides on our Discord and [HERE](https://github.com/2077v2/Tarnished/blob/main/Guides.md)&#x20;
 
 ## FAQ
 
